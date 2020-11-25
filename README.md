@@ -1,0 +1,2 @@
+# iXpandSDKWrapper
+iXpandSDK CocoaPods wrapper.
